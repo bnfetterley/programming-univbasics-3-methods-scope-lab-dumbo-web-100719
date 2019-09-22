@@ -24,5 +24,6 @@ link
 def any_phrase(phrase)
   print #{phrase}
 end
+
 any_phrase("Do a Barrel Roll!\n")
   
